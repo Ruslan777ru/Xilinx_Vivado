@@ -1,0 +1,1 @@
+-wto "4190ad53180c41d991613c4a0d732703" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "basic_gates_from_example_behav" "xil_defaultlib.basic_gates_from_example" -log "elaborate.log" 

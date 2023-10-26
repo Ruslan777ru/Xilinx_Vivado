@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Sep 15 15:15:08 2023
+# Process ID: 12240
+# Current directory: D:/Xilinx Vivado/Vivado/project_1/project_1.runs/impl_1
+# Command line: vivado.exe -log basic_gates_from_example.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source basic_gates_from_example.tcl -notrace
+# Log file: D:/Xilinx Vivado/Vivado/project_1/project_1.runs/impl_1/basic_gates_from_example.vdi
+# Journal file: D:/Xilinx Vivado/Vivado/project_1/project_1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source basic_gates_from_example.tcl -notrace
